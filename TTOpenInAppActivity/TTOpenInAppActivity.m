@@ -57,7 +57,7 @@
 
 - (NSString *)activityTitle
 {
-	return NSLocalizedString(@"Open in ...", @"Open in ...");
+	return NSLocalizedString(@"Open in...", @"Open in...");
 }
 
 - (UIImage *)activityImage
