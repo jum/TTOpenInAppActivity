@@ -29,7 +29,7 @@
 
 ## Installation
 
-Add the `TTOpenInAppActivity` subfolder to your project. There are no required libraries other than `UIKit` and `MobileCoreServices`.
+Add the `TTOpenInAppActivity` subfolder to your project. Required libraries: `UIKit`, `CoreGraphics`, `ImageIO` and `MobileCoreServices`.
 
 ## Usage.
 
@@ -61,6 +61,7 @@ if(UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone){
 ## Contributer (Thank You!)
 
 - [Vincent Tourraine](https://github.com/vtourraine) 
+- [Jesse Ditson](https://github.com/jesseditson)
 
 ## License
 
